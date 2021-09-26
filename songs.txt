@@ -1,1 +1,1 @@
-https://streams.ilovemusic.de/iloveradio24.mp3
+<script src="https://embed.radio.co/player/28fb4fb.js"></script>
